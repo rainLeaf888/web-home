@@ -1,0 +1,31 @@
+.article-wrapper .first-title{
+  font-size: 18px;
+  line-height: 28px;
+  padding: 16px 0;
+}
+.article-wrapper .first-title a{
+  display: inline-block;
+  width: 80px;
+  font-size: 14px;
+}
+.article-wrapper .child-content{
+  display: inline-block;
+  width: 25%;
+  margin-right: 24px;
+}
+.article-wrapper video{
+  width: 100%;
+}
+.article-wrapper .article-author{
+  line-height: 20px;
+	color: #e70000;
+}
+.article-wrapper .article-title{
+  height: 44px;
+	font-size: 18px;
+	line-height: 26px;
+}
+.article-wrapper .article-text {
+  line-height: 18px;
+  color: #999;
+}

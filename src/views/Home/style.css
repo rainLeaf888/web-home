@@ -1,0 +1,31 @@
+.home-wrapper .second-section{
+  min-width: 1280px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.home-wrapper .right{
+  padding-left: 32px;
+  box-sizing: border-box;
+  width: 428px;
+}
+.home-wrapper .right .note-code-icon{
+  width: 182px;
+  height: 182px;
+}
+.home-wrapper .right .file-download-wrapper{
+  margin-to: 32px;
+  background: #ccc;
+  height: 132px;
+  font-size: 28px;
+}
+.home-wrapper .right .file-download-wrapper img{
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  background-size:contain;
+  border-radius: 50%;
+}
+.home-wrapper .right .file-download-wrapper .tip-text{
+  font-size: 14px;
+  color: #999;
+}
